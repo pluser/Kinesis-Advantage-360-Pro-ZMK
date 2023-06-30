@@ -47,7 +47,7 @@
        "&trans",       "&kp CAPS",    "&kp Q",  "&kp W",  "&kp E",  "&kp R",               "&kp T",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&kp LEFT_SHIFT",    "&kp A",  "&kp S",  "&kp D",  "&kp F",               "&kp G", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans",      "&kp LCTRL",    "&kp Z",  "&kp X",  "&kp C",  "&kp V",              "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",   "&kp LEFT_ALT", "&kp LGUI", "&trans",  "&kp B",                     "&kp SPACE",    "&mo", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans",   "&kp LEFT_ALT", "&kp LGUI", "&trans",  "&kp B",                     "&kp SPACE",  "&mo 6", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ], [
        "&trans",        "&kp N0",  "&kp N9",    "&kp N8", "&kp N7", "&kp N6",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans",         "&kp P",   "&kp O",     "&kp I",  "&kp U",  "&kp Y",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
