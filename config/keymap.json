@@ -37,11 +37,11 @@
         "&trans",      "&kp LCTRL",    "&kp Z",  "&kp X",  "&kp C",  "&kp V",                                  "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
         "&trans",   "&kp LEFT_ALT", "&kp LGUI", "&trans",  "&kp B",                     "&kp SPACE",  "&mo 4", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ], [
-       "&trans",        "&kp N0",  "&kp N9",    "&kp N8", "&kp N7", "&kp N6",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",         "&kp P",   "&kp O",     "&kp I",  "&kp U",  "&kp Y",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&kp SEMICOLON",   "&kp L",     "&kp K",  "&kp J",  "&kp H",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",     "&kp SLASH", "&kp DOT", "&kp COMMA",  "&kp M",  "&kp N",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",        "&trans",  "&trans",    "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+              "&trans",        "&kp N0",  "&kp N9",    "&kp N8", "&kp N7", "&kp N6",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&kp BACKSLASH",         "&kp P",   "&kp O",     "&kp I",  "&kp U",  "&kp Y",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+            "&kp APOS", "&kp SEMICOLON",   "&kp L",     "&kp K",  "&kp J",  "&kp H",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+           "&kp ENTER",     "&kp SLASH", "&kp DOT", "&kp COMMA",  "&kp M",  "&kp N",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+            "&kp BSPC",        "&trans",  "&trans",    "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ], [
        "&kp F1", "&kp F2", "&kp F3", "&kp F4", "&kp F5", "&kp F6",                   "&tog 1",                                                              "&mo 6", "&kp F7", "&kp F8", "&kp F9", "&kp F10", "&kp F11", "&kp F12",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",               "&kp INSERT",                                                              "&none", "&trans", "&trans", "&trans",  "&trans",  "&trans",  "&trans",
